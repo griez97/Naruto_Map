@@ -5,7 +5,7 @@
         "description": "A ninja of the Hidden Leaf Village, striving to become Hokage.",
         "chakraNature": ["Wind"],
         "jutsus": ["Shadow Clone Jutsu", "Rasengan", "Sage Mode", "Kurama Mode"],
-        "img": ""
+        "img": "./src/assets/img/naruto.jpeg"
     },
     {
         "id": 2,
