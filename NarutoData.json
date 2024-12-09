@@ -1,0 +1,254 @@
+[
+    {
+        "id": 1,
+        "name": "Naruto Uzumaki",
+        "description": "A ninja of the Hidden Leaf Village, striving to become Hokage.",
+        "chakraNature": ["Wind"],
+        "jutsus": ["Shadow Clone Jutsu", "Rasengan", "Sage Mode", "Kurama Mode"],
+        "img": ""
+    },
+    {
+        "id": 2,
+        "name": "Gaara",
+        "description": "The Fifth Kazekage of the Hidden Sand Village.",
+        "chakraNature": ["Wind"],
+        "jutsus": ["Sand Coffin", "Sand Burial", "Shield of Sand"],
+        "img": ""
+    },
+    {
+        "id": 3,
+        "name": "Shikamaru Nara",
+        "description": "A strategic genius from the Nara clan.",
+        "chakraNature": ["Shadow"],
+        "jutsus": ["Shadow Possession Jutsu", "Shadow Strangle Jutsu"],
+        "img": ""
+    },
+    {
+        "id": 4,
+        "name": "Sasuke Uchiha",
+        "description": "Naruto's rival, a talented ninja from the Uchiha clan.",
+        "chakraNature": ["Fire", "Lightning"],
+        "kekkeiGenkai": "Sharingan",
+        "jutsus": ["Chidori", "Fireball Jutsu", "Amaterasu", "Susanoo"],
+        "img": ""
+    },
+    {
+        "id": 5,
+        "name": "Hinata Hyuga",
+        "description": "A kind-hearted ninja from the Hyuga clan.",
+        "chakraNature": ["Fire"],
+        "kekkeiGenkai": "Byakugan",
+        "jutsus": ["Gentle Fist", "Eight Trigrams Sixty-Four Palms", "Twin Lion Fists"],
+        "img": ""
+    },
+    {
+        "id": 6,
+        "name": "Tsunade",
+        "description": "One of the Legendary Sannin and the Fifth Hokage.",
+        "chakraNature": ["Earth", "Water"],
+        "jutsus": ["Medical Ninjutsu", "Strength of a Hundred Seal"],
+        "img": ""
+    },
+    {
+        "id": 7,
+        "name": "Rock Lee",
+        "description": "A taijutsu specialist with unbreakable determination.",
+        "chakraNature": ["None (Taijutsu User)"],
+        "jutsus": ["Leaf Hurricane", "Drunken Fist", "Eight Gates"],
+        "img": ""
+    },
+    {
+        "id": 8,
+        "name": "Deidara",
+        "description": "A rogue ninja who specializes in explosive art.",
+        "chakraNature": ["Earth", "Lightning"],
+        "jutsus": ["Explosive Clay", "C4 Karura", "C0 Ultimate Art"],
+        "img": ""
+    },
+    {
+        "id": 9,
+        "name": "Madara Uchiha",
+        "description": "A legendary ninja and co-founder of the Hidden Leaf Village.",
+        "chakraNature": ["Fire", "Earth", "Wind"],
+        "kekkeiGenkai": "Sharingan, Rinnegan",
+        "jutsus": ["Susanoo", "Limbo", "Fire Release: Great Fire Annihilation"],
+        "img": ""
+    },
+    {
+        "id": 10,
+        "name": "Kakashi Hatake",
+        "description": "The leader of Team 7, known as the Copy Ninja.",
+        "chakraNature": ["Lightning", "Earth", "Water", "Fire"],
+        "jutsus": ["Chidori", "Kamui", "Lightning Blade"],
+        "kekkeiGenkai": "Sharingan (Temporary)",
+        "img": ""
+    },
+    {
+        "id": 11,
+        "name": "Ino Yamanaka",
+        "description": "A member of the Yamanaka clan specializing in mind techniques.",
+        "chakraNature": ["Earth"],
+        "jutsus": ["Mind Transfer Jutsu"],
+        "img": ""
+    },
+    {
+        "id": 12,
+        "name": "Pain (Nagato)",
+        "description": "Leader of Akatsuki, wields the Rinnegan and seeks peace through pain.",
+        "chakraNature": ["All Five (Rinnegan Mastery)"],
+        "jutsus": ["Almighty Push", "Chibaku Tensei", "Summoning: Demonic Statue of the Outer Path"],
+        "img": ""
+    },
+    {
+        "id": 13,
+        "name": "Hidan",
+        "description": "An immortal Akatsuki member who worships Jashin.",
+        "chakraNature": ["None (Ritual User)"],
+        "jutsus": ["Curse Technique: Death Controlling Possessed Blood"],
+        "img": ""
+    },
+    {
+        "id": 14,
+        "name": "Sakura Haruno",
+        "description": "A skilled medical ninja and member of Team 7.",
+        "chakraNature": ["Earth"],
+        "jutsus": ["Medical Ninjutsu", "Strength of a Hundred Seal", "Cherry Blossom Impact"],
+        "img": ""
+    },
+    {
+        "id": 15,
+        "name": "Itachi Uchiha",
+        "description": "Sasuke's elder brother, a genius of the Uchiha clan.",
+        "chakraNature": ["Fire", "Water", "Wind"],
+        "kekkeiGenkai": "Sharingan",
+        "jutsus": ["Amaterasu", "Tsukuyomi", "Susanoo", "Izanami"],
+        "img": ""
+    },
+    {
+        "id": 16,
+        "name": "Kisame Hoshigaki",
+        "description": "The Monster of the Hidden Mist, partnered with Itachi.",
+        "chakraNature": ["Water"],
+        "jutsus": ["Water Prison Jutsu", "Water Shark Bomb Jutsu", "Samehada Fusion"],
+        "img": ""
+    },
+    {
+        "id": 17,
+        "name": "Orochimaru",
+        "description": "One of the Legendary Sannin and a master of forbidden techniques.",
+        "chakraNature": ["Earth", "Wind", "Water", "Fire"],
+        "jutsus": ["Reanimation Jutsu", "Snake Summoning"],
+        "img": ""
+    },
+    {
+        "id": 18,
+        "name": "Temari",
+        "description": "A skilled kunoichi from the Sand Village.",
+        "chakraNature": ["Wind"],
+        "jutsus": ["Wind Scythe Jutsu", "Summoning: Kamatari"],
+        "img": ""
+    },
+    {
+        "id": 19,
+        "name": "Neji Hyuga",
+        "description": "A prodigy of the Hyuga clan.",
+        "chakraNature": ["Fire"],
+        "kekkeiGenkai": "Byakugan",
+        "jutsus": ["Gentle Fist", "Eight Trigrams Sixty-Four Palms", "Rotation"],
+        "img": ""
+    },
+    {
+        "id": 20,
+        "name": "Killer Bee",
+        "description": "The Jinchuriki of the Eight-Tails and a master rapper.",
+        "chakraNature": ["Lightning"],
+        "jutsus": ["Lariat", "Tailed Beast Bomb"],
+        "img": ""
+    },
+    {
+        "id": 21,
+        "name": "Kakuzu",
+        "description": "A bounty hunter with multiple hearts and mastery of all chakra natures.",
+        "chakraNature": ["Fire", "Earth", "Wind", "Lightning", "Water"],
+        "jutsus": [
+            "Earth Grudge Fear",
+            "Fire Release: Intense Pain",
+            "Wind Release: Pressure Damage"
+        ],
+        "img": ""
+    },
+    {
+        "id": 22,
+        "name": "Tsunade",
+        "description": "One of the Legendary Sannin and the Fifth Hokage.",
+        "chakraNature": ["Earth", "Water"],
+        "jutsus": ["Medical Ninjutsu", "Strength of a Hundred Seal"],
+        "img": ""
+    },
+    {
+        "id": 23,
+        "name": "Konan",
+        "description": "Nagato's loyal partner, known for her Paper Jutsu.",
+        "chakraNature": ["Wind", "Water", "Earth"],
+        "jutsus": ["Paper Shuriken", "Paper Clone", "Paper Ocean"],
+        "img": ""
+    },
+    {
+        "id": 24,
+        "name": "Hashirama Senju",
+        "description": "The First Hokage and co-founder of the Hidden Leaf Village.",
+        "chakraNature": ["Wood (Combination of Water and Earth)"],
+        "kekkeiGenkai": "Wood Release",
+        "jutsus": ["Wood Dragon Jutsu", "Deep Forest Emergence"],
+        "img": ""
+    },
+    {
+        "id": 25,
+        "name": "Choji Akimichi",
+        "description": "A member of the Akimichi clan with great physical strength.",
+        "chakraNature": ["Earth"],
+        "jutsus": ["Human Boulder", "Calorie Control"],
+        "img": ""
+    },
+    {
+        "id": 26,
+        "name": "Zetsu",
+        "description": "A plant-like being with White Zetsu and Black Zetsu halves.",
+        "chakraNature": ["Earth"],
+        "jutsus": ["Mayfly", "Spore Technique"],
+        "img": ""
+    },
+    {
+        "id": 27,
+        "name": "Jiraiya",
+        "description": "One of the Legendary Sannin and Naruto's mentor.",
+        "chakraNature": ["Fire", "Earth", "Water"],
+        "jutsus": ["Rasengan", "Toad Summoning", "Sage Mode"],
+        "img": ""
+    },
+    {
+        "id": 28,
+        "name": "Sasori",
+        "description": "A puppet master from the Hidden Sand, known for his human puppets.",
+        "chakraNature": ["Earth"],
+        "jutsus": ["Puppet Technique", "Iron Sand", "Poison Techniques"],
+        "img": ""
+    },
+    {
+        "id": 29,
+        "name": "Obito Uchiha (Tobi)",
+        "description": "A former Uchiha clan member who manipulates events from the shadows.",
+        "chakraNature": ["Fire", "Wind", "Earth", "Water", "Lightning"],
+        "kekkeiGenkai": "Sharingan, Mangekyo Sharingan",
+        "jutsus": ["Kamui", "Fireball Jutsu", "Wood Release"],
+        "img": ""
+    },
+    {
+        "id": 30,
+        "name": "Kiba Inuzuka",
+        "description": "A ninja with a strong bond with his dog, Akamaru.",
+        "chakraNature": ["Earth"],
+        "jutsus": ["Fang Over Fang", "Man-Beast Transformation"],
+        "img": ""
+    }
+]
